@@ -1,0 +1,15 @@
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\bin\Debug\net6.0\enrollment-app.exe
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\bin\Debug\net6.0\enrollment-app.deps.json
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\bin\Debug\net6.0\enrollment-app.runtimeconfig.json
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\bin\Debug\net6.0\enrollment-app.dll
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\bin\Debug\net6.0\enrollment-app.pdb
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\obj\Debug\net6.0\enrollment-app.csproj.AssemblyReference.cache
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\obj\Debug\net6.0\enrollment-app.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\obj\Debug\net6.0\enrollment-app.AssemblyInfoInputs.cache
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\obj\Debug\net6.0\enrollment-app.AssemblyInfo.cs
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\obj\Debug\net6.0\enrollment-app.csproj.CoreCompileInputs.cache
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\obj\Debug\net6.0\enrollment-app.dll
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\obj\Debug\net6.0\refint\enrollment-app.dll
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\obj\Debug\net6.0\enrollment-app.pdb
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\obj\Debug\net6.0\enrollment-app.genruntimeconfig.cache
+E:\StudentAdminPortal\EnrollmentApp\enrollment-app\obj\Debug\net6.0\ref\enrollment-app.dll
